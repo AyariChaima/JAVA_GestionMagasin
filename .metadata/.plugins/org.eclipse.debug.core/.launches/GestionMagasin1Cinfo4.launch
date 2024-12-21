@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/GestionMagasin1Cinfo4/src/gestionmagasin1cinfo4/GestionMagasin1Cinfo4.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="gestionmagasin1cinfo4.GestionMagasin1Cinfo4"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="GestionMagasin1Cinfo4"/>
+</launchConfiguration>
